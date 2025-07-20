@@ -81,5 +81,4 @@ CMakeLists.txt.user*
 .uic/
 /build*/
 /cmake-*/
-/.vscode/
-/*vscode*/
+.vscode/
